@@ -1,0 +1,12 @@
+C:\Users\Admin\OneDrive\Desktop\Studier\OOP Avancerad\BlazorApplication\BlazorApplication\Shared\bin\Debug\net6.0\BlazorApplication.Shared.deps.json
+C:\Users\Admin\OneDrive\Desktop\Studier\OOP Avancerad\BlazorApplication\BlazorApplication\Shared\bin\Debug\net6.0\BlazorApplication.Shared.dll
+C:\Users\Admin\OneDrive\Desktop\Studier\OOP Avancerad\BlazorApplication\BlazorApplication\Shared\bin\Debug\net6.0\ref\BlazorApplication.Shared.dll
+C:\Users\Admin\OneDrive\Desktop\Studier\OOP Avancerad\BlazorApplication\BlazorApplication\Shared\bin\Debug\net6.0\BlazorApplication.Shared.pdb
+C:\Users\Admin\OneDrive\Desktop\Studier\OOP Avancerad\BlazorApplication\BlazorApplication\Shared\obj\Debug\net6.0\BlazorApplication.Shared.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Studier\OOP Avancerad\BlazorApplication\BlazorApplication\Shared\obj\Debug\net6.0\BlazorApplication.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Studier\OOP Avancerad\BlazorApplication\BlazorApplication\Shared\obj\Debug\net6.0\BlazorApplication.Shared.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Studier\OOP Avancerad\BlazorApplication\BlazorApplication\Shared\obj\Debug\net6.0\BlazorApplication.Shared.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\OOP Avancerad\BlazorApplication\BlazorApplication\Shared\obj\Debug\net6.0\BlazorApplication.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Studier\OOP Avancerad\BlazorApplication\BlazorApplication\Shared\obj\Debug\net6.0\BlazorApplication.Shared.dll
+C:\Users\Admin\OneDrive\Desktop\Studier\OOP Avancerad\BlazorApplication\BlazorApplication\Shared\obj\Debug\net6.0\ref\BlazorApplication.Shared.dll
+C:\Users\Admin\OneDrive\Desktop\Studier\OOP Avancerad\BlazorApplication\BlazorApplication\Shared\obj\Debug\net6.0\BlazorApplication.Shared.pdb
