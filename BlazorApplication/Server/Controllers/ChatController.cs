@@ -10,15 +10,25 @@ namespace BlazorApplication.Server.Controllers
     {
         private readonly PreviousChatArchive previousChatArchive;
 
+        public ChatController()
+        {
+        }
+
         public ChatController(PreviousChatArchive previousChatArchive)
         {
             this.previousChatArchive = previousChatArchive;
         }
 
+
+        /// <summary>
+        /// HTTP Get request recives information on previous chat data, i.e: user name and message 
+        /// We use IEnumerable to loop over generic chat lists 
+        /// </summary>
+
         [HttpGet]
         public IEnumerable<ChatData> Get()
         {
-            return new List<ChatData>{ new ChatData { User = "Me", Message = "Hi!"} };
+            return previousChatArchive.Chats;
         }
     }
 
